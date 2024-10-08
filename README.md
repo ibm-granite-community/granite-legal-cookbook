@@ -1,11 +1,12 @@
 # IBM Granite Legal Cookbook
 
 The "Recipes" in the Granite Legal Cookbook showcase the capabilities of
-the IBM Granite models.
+the IBM Granite models in application to legal research and analysis.
 
 ## Recipes
 
-Coming soon
+### Case Law
+1. [RAG over NH Caselaw](/recipes/RAG/RAG_over_NH_Caselaw.ipynb) - Retrieve a NH court case relevant to a given law, and ask questions of the case.
 
 ## Contributing
 
