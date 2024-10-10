@@ -1,2 +1,1 @@
-recipes/Basics/RAG_with_Langchain.ipynb
 recipes/RAG/RAG_over_NH_Caselaw.ipynb
