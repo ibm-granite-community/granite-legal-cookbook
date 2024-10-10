@@ -6,7 +6,10 @@ the IBM Granite models in application to legal research and analysis.
 ## Recipes
 
 ### Case Law
-1. [RAG over NH Caselaw](/recipes/RAG/RAG_over_NH_Caselaw.ipynb) - Retrieve a NH court case relevant to a given law, and ask questions of the case.
+1. [RAG over NH Caselaw](/recipes/RAG/RAG_over_NH_Caselaw.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/granite-legal-cookbook/blob/main/recipes/RAG/RAG_over_NH_Caselaw.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a> - Retrieve a NH court case relevant to a given law, and ask questions of the case.
 
 ## Contributing
 
