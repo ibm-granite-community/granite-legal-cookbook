@@ -1,1 +1,1 @@
-recipes/RAG/RAG_over_NH_Caselaw.ipynb
+recipes/RAG/RAG_over_NH_Caselaw_Summarize.ipynb
