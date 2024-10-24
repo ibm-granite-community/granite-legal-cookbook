@@ -7,14 +7,14 @@ on:
       - pm-143
     paths:
       - '.github/workflows/vanilla_workflow.yaml'
-      - 'recipes/RAG/RAG_over_NH_Caselaw.ipynb'
+      - 'recipes/RAG/RAG_over_NH_Caselaw_Summarize.ipynb'
   pull_request:
     branches:
       - main
       - pm-143
     paths:
       - '.github/workflows/vanilla_workflow.yaml'
-      - 'recipes/RAG/RAG_over_NH_Caselaw.ipynb'
+      - 'recipes/RAG/RAG_over_NH_Caselaw_Summarize.ipynb'
 
 jobs:
   test-vanilla-notebooks:
