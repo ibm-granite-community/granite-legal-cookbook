@@ -8,6 +8,7 @@ on:
     paths:
       - '.github/workflows/vanilla_workflow.yaml'
       - 'recipes/RAG/RAG_over_NH_Caselaw_Summarize.ipynb'
+      - 'recipes/Graph/Entity_Extraction_from_NH_Caselaw.ipynb'
   pull_request:
     branches:
       - main
@@ -15,6 +16,7 @@ on:
     paths:
       - '.github/workflows/vanilla_workflow.yaml'
       - 'recipes/RAG/RAG_over_NH_Caselaw_Summarize.ipynb'
+      - 'recipes/Graph/Entity_Extraction_from_NH_Caselaw.ipynb'
 
 jobs:
   test-vanilla-notebooks:
