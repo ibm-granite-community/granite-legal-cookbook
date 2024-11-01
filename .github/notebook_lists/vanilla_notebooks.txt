@@ -1,1 +1,2 @@
 recipes/RAG/RAG_over_NH_Caselaw_Summarize.ipynb
+recipes/Graph/Entity_Extraction_from_NH_Caselaw.ipynb
